@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Technologies in the Future</title>
+    <link rel="stylesheet" type="text/css" href="mainCSS.css">
+</head>
+<body>
+    <ul>
+        <li><a href="growth.html">Growth</a></li>
+        <li><a href="future.html">Future</a></li>
+        <li><a href="furtherinfo.html">Further Information</a></li>
+    </ul>
+    <h1>Digial Technologies for the Future</h1>
+    <p></p>
+    <p><b>What is Digital Technoloiges? </b>Digital Technologies are electronic tools, systems, processes used in storing data and developing digital media.</p>
+</body>
