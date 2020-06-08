@@ -1,0 +1,36 @@
+body {
+    background-color: #fcfcfc;
+}
+h1 {
+    margin: 35px;
+    font-family: Verdana;
+    color: #434343
+    
+}
+p {
+    margin: 35px;
+    font-family: 'Helvetica';
+    color: #434343
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 3px solid #ffffff;
+    background-color: #434343;
+}
+li {
+    float: left;
+    font-family: 'Tahoma'
+}
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: centre;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #71d54c
+}
