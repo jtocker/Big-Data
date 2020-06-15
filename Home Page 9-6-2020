@@ -6,11 +6,24 @@
 </head>
 <body>
     <ul>
-        <li><a href="growth.html">Growth</a></li>
-        <li><a href="future.html">Future</a></li>
+        <li><a href="future.html">Future of Digital Technologies</a></li>
         <li><a href="furtherinfo.html">Further Information</a></li>
     </ul>
     <h1>Digial Technologies for the Future</h1>
     <p></p>
     <p><b>What is Digital Technoloiges? </b>Digital Technologies are electronic tools, systems, processes used in storing data and developing digital media.</p>
+
+    <img src="screen-code.jpg" alt="Computer Displaying Code" style="width:350px; height:240px; vertical-align:top; margin:0px 35px" class=image><p>Digital Technologies are used in everyday life, Work, School and have been growing over the years. This website is about showing how Digital Technologies have changed, but how Digital Technologies will be used in the future.</p>
+    <p></p>
+    <p><b>What this website showcases: </b>Change in Digital Technologies, Digital Technologies usage for the future, Further Information on Digital Technologies, Contacts</p>
+    
+    <div class="row">
+        <div class="column">
+            <img src="roboticarm-dt.jpg" alt="Robotic Hand Playing Chess" style="width:364px; height:190px">
+        <div class="column">
+            <img src="digitech-studies.png" alt="Students Studying Computing" style="width:364px; height:190px">
+        </div>
+    </div>
+</div>
 </body>
+</html>
