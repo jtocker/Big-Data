@@ -34,3 +34,20 @@ li a {
 li a:hover {
     background-color: #71d54c
 }
+.image {
+    float: left;
+    padding: 0 0 0 0;
+}
+.column {
+    float: left;
+    width: 40%;
+    padding: 2px;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 2px;
+  }
