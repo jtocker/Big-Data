@@ -22,3 +22,16 @@
         <p><b>Apple's Fist Computer: </b>This was one of apples first computers that was released. This was built in 1977. This was one of the first functioning computers for commercial sale. This was a breaking point and a leadup to the future of digital technologies.</p>
 </div>
 <div style="clear: both;"></div>
+<div>
+    <img src="apple-laptop.jpg" alt="Modern Apple Brand Laptop" style="width:350px; height:240px; vertical-align:top; margin:0px 35px" class=image>
+    <p><b>A Modern Computer Today: </b>Currently, modern laptops are simaller to this, they have grown. They use smaller, compact processing units that do alot of work that the older computers could'nt handle. This is where digital technologies is going. It will be moving into more advaced processing units, with people who can code, manage and sort new systems. This laptop is a 2019 MacBook Pro with Touchbar (an interactive small long screen), this is what a current modern computer user would use (or simaller)</p> 
+</div>
+<div style="clear: both;"></div>
+<div>
+    <img src="mars_rover.jpg" alt="Mars Rover Travelling Across Mars Surface" style="width:350px; height:240px; vertical-align:top; margin:0px 35px" class=image>
+    <p><b>Where Does the Future Lie?: </b>Plans for the future look simaller to this, a Mars Rover exploring Mars. Digital technologies will lead us into technology which can programed to do things like this. Technological systems such as AI and robotics will grow in its processing, and will be able to design outcomes that work for big projects such as a Mars Rover.</p>
+</div>
+<div style="clear: both;"></div>
+<br>
+</body>
+</html>
