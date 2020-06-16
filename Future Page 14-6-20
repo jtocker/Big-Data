@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Technologies in the Future</title>
+    <link rel="stylesheet" type="text/css" href="mainCSS.css">
+</head>
+<body>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="furtherinfo.html">Further Information</a></li>
+    </ul>
+    <h1>What is the future of Digital Technologies? Where is it taking us?</h1>
+    <p></p>
+<div>
+    <img src="artificial-intelligence.jpg" alt="Artificial Intelligence Model" style="width:350px; height:240px; vertical-align:top; margin:0px 35px" class=image><p><b>Modern Machienes - Artificial Intelligence:  </b>Artificial Intelligence (AI) is demonstrated widley by Machienes by automated robots with human-like capabilties. Machienes are become more capable to complete tasks and growing their knwowlege through greater, more developed AI Interfaces.</p>
+    <p></p>
+    <p><b>Change in Technology: </b>Think about your Phone. It's probably not the first version of that type of phone. Phones have grown significantly with improved processing chips and power. It's note just the phones, the people who code and manage the creation of the technology</p>
+</div>
+<div style="clear: both;"></div>
+<div>
+    <img src="apple-first.jpg" alt="Apple's First Computer" style="width:350px; height:240px; vertical-align:top; margin:0px 35px" class=image>
+        <p><b>Apple's Fist Computer: </b>This was one of apples first computers that was released. This was built in 1977. This was one of the first functioning computers for commercial sale. This was a breaking point and a leadup to the future of digital technologies.</p>
+</div>
+<div style="clear: both;"></div>
