@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Technologies in the Future</title>
+    <link rel="stylesheet" type="text/css" href="mainCSS.css">
+</head>
+<body>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="future.html">Future of Digital Technologies</a></li>
+    </ul>
+    <h1>More Information on Digital Technologies for the future.</h1>
+    <p></p>
+    <p>Links to Futher Information.</p>
+    <a href="https://www.un.org/en/un75/impact-digital-technologies"><h4>UN Digital Technologies Impact</a></h4>
+    <a href="https://www.ofx.com/en-us/blog/digital-innovation-shaping-future/"><h4>6 Ways Digital Innovation is shaping the future</a></h4>
+    <a href="https://mars.nasa.gov/msl/home/"><h4>NASA's Mars Curiosity Rover</a></h4>
+    <a href="https://www.wired.com/insights/2014/04/future-digital-will-change-world/"><h4>How Digital is changing our world</a></h4> <br>
+
+    <p><b>Issues with the Website? Contact Me:</b></p>
+    <p>Jack Tocker</p>
+    <p>e. j.tocker@rollestoncollege.nz</p>
+    </body>
+    </html>
